@@ -6,6 +6,7 @@
 #include "../common.h"
 #include <string>
 #include <list>
+#include <fstream>
 
 pcpp::AndFilter *PacketCapture::addFilters()
 {
@@ -45,10 +46,10 @@ pcpp::PcapLiveDevice *PacketCapture::openDevice()
 // pcpp::RawPacket* packet, pcpp::PcapLiveDevice* dev, void* cookie
 
 // void PacketCapture::doCapture(std::function<void()> startCapture)
-std::list<std::string> PacketCapture::doCaptureAndParse()
+void PacketCapture::doCaptureAndParse()
 {
     int result = performSomeAction();
-    std::cout << "ipv4 interface addr: " << interfaceIPAddr << " and result: " << result << "\n";
+    // std::cout << "ipv4 interface addr: " << interfaceIPAddr << " and result: " << result << "\n";
 
     try
     {
@@ -59,49 +60,52 @@ std::list<std::string> PacketCapture::doCaptureAndParse()
         PacketStats stats;
         pcpp::RawPacketVector packetVec;
 
-        dev->startCapture(packetVec);
+        int samplingIndex = 0;
+        int samplingCount = 5;
+        while (samplingIndex < samplingCount)
+        {
+            dev->startCapture(packetVec);
 
-        // // // Add Sourced and Protocol Filters
-        // pcpp::AndFilter andFilter = addFilters();
-        // dev-> setFilter(andFilter);
+            // // // Add Sourced and Protocol Filters
+            // pcpp::AndFilter andFilter = addFilters();
+            // dev-> setFilter(andFilter);
 
-        // create a filter instance to capture only traffic on port 80
-        pcpp::PortFilter portFilter(80, pcpp::SRC_OR_DST);
+            // create a filter instance to capture only traffic on port 80
+            pcpp::PortFilter portFilter(80, pcpp::SRC_OR_DST);
 
-        // create a filter instance to capture only TCP traffic
-        pcpp::ProtoFilter protocolFilter(pcpp::TCP);
+            // create a filter instance to capture only TCP traffic
+            pcpp::ProtoFilter protocolFilter(pcpp::TCP);
 
-        // create an AND filter to combine both filters - capture only TCP traffic on port 80
-        pcpp::AndFilter andFilter;
-        andFilter.addFilter(&portFilter);
-        andFilter.addFilter(&protocolFilter);
+            // create an AND filter to combine both filters - capture only TCP traffic on port 80
+            pcpp::AndFilter andFilter;
+            andFilter.addFilter(&portFilter);
+            andFilter.addFilter(&protocolFilter);
 
-        // set the filter on the device
-        // dev->setFilter(*addFilters());
-        dev->setFilter(andFilter);
+            // set the filter on the device
+            // dev->setFilter(*addFilters());
+            dev->setFilter(andFilter);
 
-        pcpp::multiPlatformSleep(10);
-        dev->stopCapture();
+            pcpp::multiPlatformSleep(10);
+            dev->stopCapture();
 
-        // Calcualte sampelId
-        long long sampleId = 0;
-        std::list<std::string> jsonStringList;
+            // Calcualte sampelId
+            long long sampleId = 0;
+            std::list<std::string> jsonStringList;
 
-        // Log device info
-        // createHeader(pcpp::PcapLiveDevice dev, long long sampleId, int sampleSize)
-        pcpp::Packet parsedPacket(packetVec.front());
-        long timeStampNs = parsedPacket.getRawPacket()->getPacketTimeStamp().tv_nsec;
-        long timeStampSecs = parsedPacket.getRawPacket()->getPacketTimeStamp().tv_sec;
-        std::chrono::nanoseconds timestampInNanoSecs = std::chrono::seconds(timeStampSecs) +
-                                                       std::chrono::nanoseconds(timeStampNs);
-        std::cout << "Inside tsInNanosecs_collect:" << timeStampNs << ":" << timeStampSecs << "\n";
-        sampleId = timestampInNanoSecs.count();
-        std::cout << "Inside ts:" << sampleId << "\n";
+            // Log device info
+            // createHeader(pcpp::PcapLiveDevice dev, long long sampleId, int sampleSize)
+            pcpp::Packet parsedPacket(packetVec.front());
+            long timeStampNs = parsedPacket.getRawPacket()->getPacketTimeStamp().tv_nsec;
+            long timeStampSecs = parsedPacket.getRawPacket()->getPacketTimeStamp().tv_sec;
+            std::chrono::nanoseconds timestampInNanoSecs = std::chrono::seconds(timeStampSecs) +
+                                                           std::chrono::nanoseconds(timeStampNs);
+            std::cout << "Inside tsInNanosecs_collect:" << timeStampNs << ":" << timeStampSecs << "\n";
+            sampleId = timestampInNanoSecs.count();
+            std::cout << "Inside ts:" << sampleId << "\n";
 
-        std::string jsonHeader = PacketMetaData::createHeader(*dev, sampleId, packetVec.size());
-        jsonStringList.push_back(jsonHeader);
+            std::string jsonHeader = PacketMetaData::createHeader(*dev, sampleId, packetVec.size());
 
-        std::cout << "jsonHeader:" << jsonHeader << "\n";
+            std::cout << "jsonHeader:" << jsonHeader << "\n";
 
             // finish capture and return to main
             // find:
@@ -116,40 +120,41 @@ std::list<std::string> PacketCapture::doCaptureAndParse()
             8. Retransmission count
             9. window size
         */
+            jsonStringList.push_back(jsonHeader);
 
             std::list<PacketMetaData *> *packetMetaDataList = new std::list<PacketMetaData *>();
-        for (pcpp::RawPacketVector::ConstVectorIterator iter = packetVec.begin(); iter != packetVec.end(); iter++)
-        {
-            PacketMetaData *data = new PacketMetaData();
-            // parse raw packet
-            pcpp::Packet parsedPacket(*iter);
+            for (pcpp::RawPacketVector::ConstVectorIterator iter = packetVec.begin(); iter != packetVec.end(); iter++)
+            {
+                PacketMetaData *data = new PacketMetaData();
+                // parse raw packet
+                pcpp::Packet parsedPacket(*iter);
 
-            // if (iter == packetVec.begin())
-            // {
-            //     long timeStampNs = parsedPacket.getRawPacket()->getPacketTimeStamp().tv_nsec;
-            //     long timeStampSecs = parsedPacket.getRawPacket()->getPacketTimeStamp().tv_sec;
-            //     std::chrono::nanoseconds timestampInNanoSecs = std::chrono::seconds(timeStampSecs) +
-            //                                                    std::chrono::nanoseconds(timeStampNs);
-            //     std::cout << "Inside tsInNanosecs_collect:" << timeStampNs << ":" << timeStampSecs << "\n";
-            //     sampleId = timestampInNanoSecs.count();
-            //     std::cout << "Inside ts:" << sampleId << "\n";
-            // }
+                // feed packet to the stats object
+                data->collectStats(parsedPacket, sampleId);
 
-            // feed packet to the stats object
-            data->collectStats(parsedPacket, sampleId);
+                // data->printToConsole();
+                jsonStringList.push_back(data->convertToJSON());
 
-            // data->printToConsole();
-            jsonStringList.push_back(data->convertToJSON());
+                packetMetaDataList->push_back(data);
+            }
 
-            packetMetaDataList->push_back(data);
+            delete packetMetaDataList;
+
+            // Open the output file
+            std::ofstream outFile(std::string("./capturedNetworkSamples/output_") + std::to_string(samplingIndex + 1) + std::string(".json"));
+
+            // Write each string in the list to the file
+            for (const auto &record : jsonStringList)
+            {
+                outFile << record << "\n";
+            }
+
+            // Close the output file
+            outFile.close();
+            samplingIndex++;
         }
 
-        delete packetMetaDataList;
-
-        // std::cout << "Results:" << std::endl;
-        // stats.printToConsole();
-        // stats.clear();
-        return jsonStringList;
+        // return jsonStringList;
     }
     catch (const std::exception &e)
     {

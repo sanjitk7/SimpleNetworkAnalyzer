@@ -1,0 +1,1144 @@
+{"index": {"_index": "pcap_2023-05-08", "_id": ""}}
+{"recordType":"H","timestamp":1683529107532547000,"sampleId":1683529107532547000,"sampleSize":571,"interfaceName":"en0","interfaceDesc":"","macAddress":"d0:81:7a:b1:5e:1e","defaultGateway":"192.168.1.1"}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529107532547000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529108633686000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529108650886000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529108661280000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529108738779000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529108749501000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529108894510000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529108906165000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529108918078000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529108934014000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529108945226000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529108955971000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529108960510000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529108972763000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529108978365000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529108988815000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109012882000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109024588000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109028352000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109040257000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109053122000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109063241000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109068966000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109080228000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109106382000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109121265000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109152331000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109162916000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109194122000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109213407000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109240458000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109251470000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109380160000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109392169000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109412423000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109432082000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109452346000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109462620000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109486720000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109503374000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109529393000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109539124000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109599992000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109612053000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109666060000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109677174000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109719984000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109740879000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109791260000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109801178000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109960115000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529109977958000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110003266000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110012865000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110040307000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110052163000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110068904000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110084857000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110107146000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110116704000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110165373000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110176425000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110210564000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110220851000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110242164000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110253942000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110264750000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110276869000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110297902000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110308318000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110343595000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110353471000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110368719000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110380102000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110388023000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110395375000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110411397000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110422109000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110431054000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110450453000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110452872000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110463903000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110469242000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110487340000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110506223000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110517121000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110550495000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110561293000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110603669000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110616802000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110643421000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110657077000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110673059000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110683925000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110702044000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110713526000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110718752000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110730069000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110739923000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110756520000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110759328000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110768698000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110773949000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110785934000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110813027000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110823780000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110831602000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110842138000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110857972000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110868847000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110883191000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110894161000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110910657000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110926301000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110949478000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110964426000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110976154000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529110987129000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111004653000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111030618000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111067531000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111077760000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111095619000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111106499000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111140203000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111150708000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111166909000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111178470000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111199489000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111209761000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111221732000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111241755000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111253241000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111272720000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111276148000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111289189000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111301753000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111314018000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111321368000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111346369000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111352564000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111366614000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111372079000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111376699000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111398827000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111409157000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111422605000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111447223000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111448311000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111459439000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111476834000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111487484000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111509084000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111520388000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111535821000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111554969000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111555659000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111565166000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111597308000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111607633000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111822928000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111833601000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111869254000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111887356000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111927761000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111938509000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111954063000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111964960000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111981558000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529111992138000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112006094000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112017231000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112032301000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112042839000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112058114000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112070851000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112076910000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112096433000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112115464000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112126971000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112183332000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112201406000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112340243000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112354358000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112392183000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112407405000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112424420000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112435021000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112458170000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112468966000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112500328000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112514756000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112527912000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112538837000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112562882000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112573825000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112607098000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112620261000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112692669000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112712056000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112727787000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112746685000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112758137000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112769519000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112783760000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112808038000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112811179000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112830298000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112844081000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112856712000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112872005000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112885069000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112898755000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112910920000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112911887000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112921910000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112936578000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112946807000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112956769000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112968657000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112971883000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112982615000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529112997474000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113011220000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113016713000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113021040000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113024611000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113035924000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113050555000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113060712000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113068256000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113079665000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113091351000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113104174000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113109107000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113122304000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113124812000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113137112000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113172896000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113184303000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113216621000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113228326000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113231928000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113253228000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113272875000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113279182000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113283256000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113286133000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113292396000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113302610000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113313488000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113326329000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113331921000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113348555000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113349994000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113365108000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113366069000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113376449000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113395266000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113405799000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113408512000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113424744000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113428403000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113434209000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113443520000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113454215000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113468161000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113478072000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113497476000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113508114000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113513644000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113531960000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113539293000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113548682000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113556325000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113567631000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113572498000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113584714000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113595245000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113604812000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113619289000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113636006000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113641593000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113650861000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113656121000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113666989000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113667488000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113684267000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113687217000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113696157000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113704703000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113714338000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113723947000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113739087000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113745222000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113756748000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113763552000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113773161000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113781026000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113790785000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113801826000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113812578000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113821184000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113830924000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113845644000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113856246000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113864458000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113874634000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113885818000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113898513000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113904478000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113914150000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113923369000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113934000000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113951934000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113961697000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113971348000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113981356000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529113995474000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114006131000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114012908000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114022191000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114036352000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114053076000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114055527000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114065461000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114066399000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114076454000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114091956000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114134033000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114161163000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114163854000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114163883000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114176455000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114203258000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114216580000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114247739000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114261765000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114282365000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114293364000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114309142000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114323833000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114333187000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114342357000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114378542000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114388320000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114420098000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114429573000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114445458000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114458398000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114477562000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114486990000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114527400000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114546398000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114556101000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114567342000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114573637000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114577101000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114583069000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114592463000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114610502000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114620197000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114626130000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114650560000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114651717000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114659838000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114666244000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114679251000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114721763000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114731852000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114762489000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114771823000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114786528000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114796410000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114828353000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114838314000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114875372000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114890485000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114906109000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114919994000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114970970000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529114982021000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115005662000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115016259000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115044960000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115058310000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115066295000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115069237000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115083731000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115097929000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115110945000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115120241000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115158713000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115176956000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115183688000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115199087000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115206509000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115216323000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115223449000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115234351000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115247508000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115263710000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115273090000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115283168000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115296592000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115306820000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115313144000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115322725000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115331052000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115340997000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115372591000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115388344000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115402362000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115411851000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115465734000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115477195000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115493018000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115503937000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115526659000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115536536000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115584596000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115603772000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115637051000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115647639000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115707786000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115723537000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115766762000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115777609000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115801711000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115814268000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115830518000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115840815000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115861772000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115877176000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115879775000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115885131000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115899780000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115908998000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115910945000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115920544000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115927309000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115938667000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115959298000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115970242000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115986022000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529115996561000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116009467000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116027682000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116030595000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116040328000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116057731000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116068427000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116070703000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116082741000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116092411000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116101781000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116112422000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116122186000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116142646000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116154469000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116192445000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116202290000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116206678000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116225128000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116265784000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116277056000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116285645000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116295036000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116307097000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116316531000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116325443000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116352149000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116366753000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116376508000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116417916000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116427779000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116431548000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116441272000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116498242000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116507937000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116513482000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116523743000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116535449000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116545211000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116572666000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116582007000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116622257000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116632045000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116662602000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116672207000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116693331000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116706178000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116718888000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116729256000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116737667000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116747994000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116776227000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116787058000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116842136000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116851663000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116898794000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116910284000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116944917000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116954616000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116979222000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529116988534000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117009753000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117019228000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117048699000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117062194000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117080551000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117094560000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117099449000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117109628000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117131290000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117142446000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117204267000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117213805000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117244054000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117253416000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117274040000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117290337000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117368863000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117378375000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117498700000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117523695000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117540183000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117550597000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117582864000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117591735000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117688084000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117700195000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117839702000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117851358000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117879269000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117888291000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117907606000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117925025000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117937789000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529117949208000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118044753000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118055212000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118125605000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118136984000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118198187000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118208695000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118217332000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118239371000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118239414000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118251432000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118279552000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118291094000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118305814000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118319021000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118340887000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118351582000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118379414000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118389904000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118419314000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118444947000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118479669000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118489499000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118503698000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118514547000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118531339000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118548988000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118561485000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118571225000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118596417000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118606965000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.2","destIP":"192.168.1.1","packetSize":54,"seqNo":0,"ackNo":0,"windowSizeInt":4380,"sourcePort":80,"destnPort":1234}
+{"index": {"_index": "pcap_2023-05-08"}}
+{"recordType":"D","timestamp":1683529118618968000,"sampleId":1683529107532547000,"sourceIP":"192.168.1.1","destIP":"192.168.1.2","packetSize":67,"seqNo":0,"ackNo":0,"windowSizeInt":8192,"sourcePort":1234,"destnPort":80}

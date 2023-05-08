@@ -15,7 +15,7 @@ public:
 
   pcpp::PcapLiveDevice *openDevice();
 
-  std::list<std::string> doCaptureAndParse();
+  void doCaptureAndParse();
 
 private:
   std::string interfaceIPAddr;

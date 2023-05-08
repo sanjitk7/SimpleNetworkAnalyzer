@@ -98,7 +98,7 @@ struct PacketMetaData
         std::string defaultGateway = dev.getDefaultGateway().toString();
 
         rapidjson::Document doc;
-        doc.SetArray();
+        doc.SetObject();
 
         // sampleId is same as timestamp
         rapidjson::Value timeStampValue(sampleId);
@@ -110,21 +110,33 @@ struct PacketMetaData
         rapidjson::Value defaultGatewayValue(rapidjson::StringRef(defaultGateway.c_str()));
 
         rapidjson::Value packetJSONObj(rapidjson::kObjectType);
-        // packetJSONObj.AddMember("timestamp", timeStampValue, doc.GetAllocator());
-        // packetJSONObj.AddMember("sampleId", sampleIdValue, doc.GetAllocator());
-        // packetJSONObj.AddMember("sampleSize", sampleSizeValue, doc.GetAllocator());
-        // packetJSONObj.AddMember("interfaceName", interfaceName, doc.GetAllocator());
-        // packetJSONObj.AddMember("interfaceDesc", interfaceDesc, doc.GetAllocator());
-        // packetJSONObj.AddMember("macAddress", macAddressValue, doc.GetAllocator());
-        // packetJSONObj.AddMember("defaultGateway", defaultGatewayValue, doc.GetAllocator());
+        doc.AddMember("recordType", "H", doc.GetAllocator());
+        doc.AddMember("timestamp", timeStampValue, doc.GetAllocator());
+        doc.AddMember("sampleId", sampleIdValue, doc.GetAllocator());
+        doc.AddMember("sampleSize", sampleSizeValue, doc.GetAllocator());
+        doc.AddMember("interfaceName", interfaceNameValue, doc.GetAllocator());
+        doc.AddMember("interfaceDesc", interfaceDescValue, doc.GetAllocator());
+        doc.AddMember("macAddress", macAddressValue, doc.GetAllocator());
+        doc.AddMember("defaultGateway", defaultGatewayValue, doc.GetAllocator());
 
-        doc.PushBack(packetJSONObj, doc.GetAllocator());
+        // doc.PushBack(packetJSONObj, doc.GetAllocator());
 
         rapidjson::StringBuffer strbuf;
         rapidjson::Writer<rapidjson::StringBuffer> writer(strbuf);
         doc.Accept(writer);
 
-        std::string jsonStr = strbuf.GetString();
+        auto now = std::chrono::system_clock::now();
+        std::time_t t = std::chrono::system_clock::to_time_t(now);
+
+        std::tm tm = *std::localtime(&t);
+
+        char date_str[11]; // "YYYY-MM-DD\0"
+        std::strftime(date_str, sizeof(date_str), "%F", &tm);
+
+        std::string pcapIndex = "pcap_" + std::string(date_str);
+
+        std::string jsonStr = "{\"index\": {\"_index\": \"" + pcapIndex + "\", \"_id\": \"\"}}\n";
+        jsonStr += strbuf.GetString();
 
         return jsonStr;
     }
@@ -164,7 +176,8 @@ struct PacketMetaData
     {
         std::cout << "convertToJSON!\n";
         rapidjson::Document doc;
-        doc.SetArray();
+        doc.SetObject();
+        // doc.SetArray();
 
         rapidjson::Value timeStampLongLong(timeStamp);
         rapidjson::Value sampleUniqueId(sampleId);
@@ -178,19 +191,19 @@ struct PacketMetaData
         rapidjson::Value destnPortValue(destnPort);
 
         rapidjson::Value packetJSONObj(rapidjson::kObjectType);
-        packetJSONObj.AddMember("timestamp", timeStampLongLong, doc.GetAllocator());
-        packetJSONObj.AddMember("sampleId", sampleUniqueId, doc.GetAllocator());
-        packetJSONObj.AddMember("sourceIP", sourceStrValue, doc.GetAllocator());
-        packetJSONObj.AddMember("destIP", destStrValue, doc.GetAllocator());
-        packetJSONObj.AddMember("packetSize", packetSizeInt, doc.GetAllocator());
-        packetJSONObj.AddMember("seqNo", seqNoInt, doc.GetAllocator());
-        packetJSONObj.AddMember("ackNo", ackNoInt, doc.GetAllocator());
-        packetJSONObj.AddMember("windowSizeInt", windowSizeInt, doc.GetAllocator());
-        packetJSONObj.AddMember("sourcePort", srcPortValue, doc.GetAllocator());
-        packetJSONObj.AddMember("destnPort", destnPortValue, doc.GetAllocator());
+        doc.AddMember("recordType", "D", doc.GetAllocator());
+        doc.AddMember("timestamp", timeStampLongLong, doc.GetAllocator());
+        doc.AddMember("sampleId", sampleUniqueId, doc.GetAllocator());
+        doc.AddMember("sourceIP", sourceStrValue, doc.GetAllocator());
+        doc.AddMember("destIP", destStrValue, doc.GetAllocator());
+        doc.AddMember("packetSize", packetSizeInt, doc.GetAllocator());
+        doc.AddMember("seqNo", seqNoInt, doc.GetAllocator());
+        doc.AddMember("ackNo", ackNoInt, doc.GetAllocator());
+        doc.AddMember("windowSizeInt", windowSizeInt, doc.GetAllocator());
+        doc.AddMember("sourcePort", srcPortValue, doc.GetAllocator());
+        doc.AddMember("destnPort", destnPortValue, doc.GetAllocator());
 
-
-        doc.PushBack(packetJSONObj, doc.GetAllocator());
+        // doc.PushBack(packetJSONObj, doc.GetAllocator());
 
         rapidjson::StringBuffer strbuf;
         rapidjson::Writer<rapidjson::StringBuffer> writer(strbuf);
@@ -198,7 +211,7 @@ struct PacketMetaData
 
         std::string pcapIndex = "pcap_" + todaysDate();
 
-        std::string jsonStr = "{\"index\": {\"_index\": \"" +  pcapIndex + "\", \"_id\": \"\"}}\n";
+        std::string jsonStr = "{\"index\": {\"_index\": \"" + pcapIndex + "\"}}\n";
         jsonStr += strbuf.GetString();
 
         // std::cout << "JSON Strong for Packet:" <<jsonStr << std::endl;
