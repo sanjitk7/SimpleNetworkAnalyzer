@@ -16,13 +16,55 @@ FetchContent_MakeAvailable(googletest)
 enable_testing()
 
 add_executable(
-  hello_test
-  hello_test.cc
+  packetCaptureTest
+  PacketCaptureTest.cpp
 )
 target_link_libraries(
-  hello_test
+  packetCaptureTest
+  /Users/kumarmuthusamy/dev/aviz/SimpleNetworkAnalyzerTool/packetCapture/packetCapture.o
+  /usr/local/lib/libPcap++.a
+  /usr/local/lib/libPacket++.a			
+  /usr/local/lib/libCommon++.a
+  -lpcap
+  -lpthread
+  "-framework SystemConfiguration"
+  "-framework CoreFoundation"
   GTest::gtest_main
 )
 
 include(GoogleTest)
-gtest_discover_tests(hello_test)
+gtest_discover_tests(packetCaptureTest)
+
+target_include_directories(packetCaptureTest PRIVATE
+  include
+  /usr/local/include/pcapplusplus/
+  ../../dependencies/include
+)
+
+enable_testing()
+
+add_executable(
+  devicesTest
+  devicesTest.cpp
+)
+target_link_libraries(
+  devicesTest
+  /Users/kumarmuthusamy/dev/aviz/SimpleNetworkAnalyzerTool/packetCapture/packetCapture.o
+  /usr/local/lib/libPcap++.a
+  /usr/local/lib/libPacket++.a			
+  /usr/local/lib/libCommon++.a
+  -lpcap
+  -lpthread
+  "-framework SystemConfiguration"
+  "-framework CoreFoundation"
+  GTest::gtest_main
+)
+
+include(GoogleTest)
+gtest_discover_tests(devicesTest)
+
+target_include_directories(devicesTest PRIVATE
+  include
+  /usr/local/include/pcapplusplus/
+  ../../dependencies/include
+)
