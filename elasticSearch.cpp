@@ -1,0 +1,1 @@
+Client client{"localhost:9200"};
